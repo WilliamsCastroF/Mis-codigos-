@@ -1,0 +1,13 @@
+//Día de creación: 05/09/22
+
+var height = 101; //altura en cm. 
+var age = 11;
+
+if (height>= 100 & age >=10){
+console.log("Si te puedes subir a la montaña rusa");
+}
+else{   
+console.log("No te puedes subir a la montaña rusa");
+}
+
+// las variables deberían ser height mayor o igual 100 (cm) y age mayor o igual a 10
